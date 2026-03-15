@@ -1,4 +1,4 @@
-# Career Compass AI
+# Hire Smart-AI
 
 ## Overview
 
