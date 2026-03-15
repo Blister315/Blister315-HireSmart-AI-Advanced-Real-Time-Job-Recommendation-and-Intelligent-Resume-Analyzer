@@ -15,7 +15,7 @@ The goal of the project is to demonstrate how modern technologies can be used to
 
 ## Technologies Used
 
-* JavaScript / TypeScript
+* TypeScript
 * Node.js
 * Supabase
 * Modern web development tools
