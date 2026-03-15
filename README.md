@@ -1,73 +1,45 @@
-# Welcome to your Lovable project
+# Career Compass AI
 
-## Project info
+## Overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Career Compass AI is a project designed to help users improve their career prospects by analyzing resume information and providing useful insights. The system processes resume content to identify important skills and relevant information that can assist users in understanding their professional profile.
 
-## How can I edit this code?
+The goal of the project is to demonstrate how modern technologies can be used to process data and build intelligent systems that support career development.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+* Resume data processing and analysis
+* Identification of important skills from resume content
+* Job search and recommendation support
+* Integration with modern development tools and services
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+* JavaScript / TypeScript
+* Node.js
+* Supabase
+* Modern web development tools
 
-**Use your preferred IDE**
+## Setup
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Install dependencies:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+```
+npm install
+```
 
-Follow these steps:
+Run the development environment:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Future Improvements
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* More advanced resume analysis
+* Better job matching algorithms
+* Improved recommendation features
 
-**Use GitHub Codespaces**
+## Author
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Developed as part of an academic project.
